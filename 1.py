@@ -1,8 +1,8 @@
 array=[]
 t=0 
-n=int(input("enter the number of array."))
+n=int(input("enter the number of array:"))
 for i in range(n):
-    a=int(input("enter the array."))
+    a=int(input("enter the array:"))
     array.append(a)
 l=len(array) 
 
